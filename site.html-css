@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <meta charset="uft-8">
+    <title>TURISMO NA EUROPA</title>
+    <head>
+        <link rel="stylesheet" href="css/estilo.css"/>
+        <img src="reino unido.jpg" height="120%" width="150%">
+    </head>
+    <body>
+        <div class="background">
+            <h1>
+                
+                <li>
+                    Bem vindos! 
+                </li>
+                <p> "A Europa é o principal destino turístico a nível mundial. </p>
+                <p>O turismo desempenha um importante papel no desenvolvimento de várias regiões europeias,</p>
+                <p> particularmente nas regiões menos desenvolvidas, devido ao seu considerável efeito de </p>
+                <p>contágio e potencial de criação de emprego, principalmente entre os jovens. Faça sua viagem conosco".</p>
+            </h1>
+          </div> 
+    </body>
+    <body>
+        <div>
+            <h4>
+                <P></P><br>
+                VISITE A EUROPA <P></P>
+                ESCOLHA SEU DESTINO:
+                <p></p><br>
+            </h4>
+        </div>
+    </body>
+<p>
+
+</p>
+<div>
+    <main class="cards">
+        <section class="card contact">
+            <div class="icon">
+                <img src="italia.jpg" alt="Italia.">
+            </div>
+            <h3>Italia.</h3>
+            <button>Escolher este.</button>
+        </section>
+        <section class="card shop">
+            <div class="icon">
+                <img src="frança.jpg" alt="Paris-França.">
+            </div>
+            <h3>Paris-França</h3>
+            <button>Escolher este</button>
+        </section>
+        <section class="card about">
+            <div class="icon">
+                <img src="suiça.jpg" alt="Suiça.">
+            </div>
+            <h3>Suiça.</h3>
+            <button>Escolher este</button>
+        </section>
+        <p></p><br>
+    </main>
+</body>
+</body>
+<footer>
+    <P>
+        Desenvolvido por: Felipe Emiliano 2022
+        <br>
+        E-mail: emanoelfelipe19@hotmail.com.br
+        <br>
+        Instagram: Felipe_emiliano
+    </P>
+</footer>
+
+</div>
+</html>
+
